@@ -10,7 +10,4 @@ function setBestCustomer() {
 
 }
 
-function overwriteBestCustomer {
-  bestCustomer = "bob";
 
-}
