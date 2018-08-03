@@ -15,6 +15,6 @@ function overwriteBestCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-
+  leastFavoriteCustomer = "green"
 
 }
